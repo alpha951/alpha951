@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Java, Spring, Postgresql and React.Js.<br>🌱 I’m contributing to Java and JavaScript/TypeScript based project.<br>✍️ Ocassionally I write on [CodeFlex](https://codeflex.substack.com/).<br>👯 I’m looking for full time opportunities as a Backend/Fullstack Dev.<br>👷My recent contribution : [apache/hertzbeat](https://github.com/apache/hertzbeat/pull/1745)
+🔭 I’m currently working with Java, Spring, Postgresql and React.Js.<br>🌱 I’m contributing to Java and JavaScript/TypeScript based project.<br>✍️ Ocassionally I write on [CodeFlex](https://codeflex.substack.com/).<br>👯 I’m looking for full time opportunities as a Backend/Fullstack Dev.<br>👷My recent contribution : [apache/hertzbeat](https://github.com/apache/hertzbeat/pulls?q=is%3Apr+is%3Amerged+author%3Aalpha951)
 
 
 ## 🌐 Socials:
